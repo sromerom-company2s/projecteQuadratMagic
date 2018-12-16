@@ -20,6 +20,7 @@ class QuadratMagic {
         }
     }
 
+    
     void print () {
         for (int i = 0; i < dades.length; i++) {
             for (int j = 0; j < dades[i].length; j++) {
