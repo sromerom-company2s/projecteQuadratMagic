@@ -19,7 +19,6 @@ class QuadratMagic {
             }
         }
     }
-
     
     void print () {
         for (int i = 0; i < dades.length; i++) {
